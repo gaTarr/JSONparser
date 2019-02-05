@@ -3,8 +3,8 @@
 This console application parses JSON data from a specified URL.  It allows the user to select one from 100 albums, and it returns the album image numbers and their titles.  
 
 # System Requirements
-Java Development Kit 1.7 or above
-Maven 3.3 or above (https://maven.apache.org/download.cgi#)
+Java Development Kit 1.7 or above.
+Maven 3.3 or above.
 
 
 For this application, please ensure that both Maven and Java are installed and both environment variables are added to PATH. If needed, you can download the Maven Binary zip archive: apache-maven-3.6.0-bin.zip, here, (https://maven.apache.org/download.cgi#) and follow the installation instructions (https://maven.apache.org/install.html).
